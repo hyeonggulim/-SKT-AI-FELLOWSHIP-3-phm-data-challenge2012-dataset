@@ -3,7 +3,7 @@
 #### Data From:  https://github.com/wkzs111/phm-ieee-2012-data-challenge-dataset
 
 While Studying Bearing Dataset, tried different types of proprecessing following winners method  
-Furthermore proceed few more in order to get better Insight
+Furthermore proceeded few more in order to get better ACC & Insight
 
 
 #### Codes
