@@ -16,3 +16,4 @@ raw_data - provided raw data from phm data_challenge2012 (Above github RUL)
 Merged Raw Data - merge raw data (simple concat)
 
 
+
